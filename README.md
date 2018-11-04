@@ -15,3 +15,5 @@ Run the .ipynb file in jupyter notebook to see the results of the model. The ori
 
 Those who want to learn and understand Practically of DecisionTree that time this repo will be very helpfull of them.
 
+
+
